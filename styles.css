@@ -14,11 +14,20 @@
 
 body{
   background-color: var(--off-white);
+  padding: 2rem 1rem;
+}
+
+main{
+  margin: auto;
+  max-width: 20rem;
 }
 
 div{
-  background-color: var(--violet);
-  color: var(--white);
+  background-color: var(--white);
+  color: var(--dark-grey);
+  margin: 2rem 1rem;
+  padding: 1rem;
+
 }
 /*
 Note for text colors:
