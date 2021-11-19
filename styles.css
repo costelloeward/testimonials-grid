@@ -8,7 +8,7 @@
   /* neutrals */
   --light-grey: hsl(0, 0%, 81%);
   --off-white: hsl(210, 46%, 95%);
-  /* font */
+
 }
 
 body{
@@ -29,6 +29,19 @@ div{
   margin: 2rem 1rem;
   padding: 1rem;
 
+}
+
+.purple-testimonial{
+  background-color: var(--violet);
+  color: var(--white);
+}
+.grey-testimonial{
+  background-color: var(--dark-grey);
+  color: var(--white);
+}
+.blue-testimonial{
+  background-color: var(--dark-blue);
+  color: var(--white);
 }
 /*
 Note for text colors:
