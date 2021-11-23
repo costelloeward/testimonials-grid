@@ -31,6 +31,14 @@ div{
 
 }
 
+h3{
+  opacity: 50%;
+}
+
+.quote {
+  opacity: 70%;
+}
+
 .purple-testimonial{
   background-color: var(--violet);
   color: var(--white);
