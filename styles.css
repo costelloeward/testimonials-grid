@@ -40,7 +40,7 @@ h3{
 }
 
 .purple-testimonial{
-  background-color: var(--violet);
+  background:var(--violet) url(images/quote-mark.svg) no-repeat top right;
   color: var(--white);
 }
 .grey-testimonial{
