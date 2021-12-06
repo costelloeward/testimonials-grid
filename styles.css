@@ -22,7 +22,16 @@ main{
   max-width: 20rem;
 }
 
-div{
+h3{
+  opacity: 50%;
+}
+
+img{
+  border-radius: 100%;
+  height:3rem;
+}
+
+.testimonial{
   background-color: var(--white);
   border-radius: 2%;
   color: var(--dark-grey);
@@ -31,27 +40,23 @@ div{
 
 }
 
-img{
-  border-radius: 100%;
-}
-
-h3{
-  opacity: 50%;
-}
-
 .quote {
   opacity: 70%;
 }
 
-.purple-testimonial{
+.purple-box{
   background:var(--violet) url(images/quote-mark.svg) no-repeat top right;
   color: var(--white);
 }
-.grey-testimonial{
+.grey-box{
   background-color: var(--dark-grey);
   color: var(--white);
 }
-.blue-testimonial{
+.blue-box{
   background-color: var(--dark-blue);
   color: var(--white);
+}
+
+.graduate-info {
+  display: flex;
 }
