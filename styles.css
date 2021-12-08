@@ -21,9 +21,16 @@ main{
   margin: auto;
   max-width: 20rem;
 }
-
+h2{
+  font-size: 1rem;
+}
 h3{
+  font-size: 0.8rem;
   opacity: 50%;
+}
+
+p{
+  font-size: 0.7rem;
 }
 
 img{
@@ -36,7 +43,7 @@ img{
   border-radius: 2%;
   color: var(--dark-grey);
   margin: 2rem 1rem;
-  padding: 1rem;
+  padding: 1rem 2rem;
 
 }
 
