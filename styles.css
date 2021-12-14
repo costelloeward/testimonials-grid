@@ -69,3 +69,16 @@ img{
 .graduate-info {
   display: flex;
 }
+
+/* Stying for larger screen sizes */
+
+@media (min-width:64rem) {
+
+  main{
+    display: grid;
+    margin: auto;
+    max-width: 45rem;
+
+  }
+
+}
