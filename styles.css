@@ -58,7 +58,7 @@ footer{
 }
 
 .purple-box{
-  background:var(--violet) url(images/quote-mark.svg) no-repeat top right;
+  background:var(--violet) url(images/quote-mark.svg) no-repeat 20rem top;
   color: var(--white);
 }
 .grey-box{
